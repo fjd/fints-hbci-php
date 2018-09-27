@@ -201,7 +201,7 @@ This library is verified to work with following banks.
 - [ ] Kreissparkasse Groß-Gerau
 - [ ] Kreissparkasse Halle (Westf.)
 - [ ] Kreissparkasse Heidenheim
-- [ ] Kreissparkasse Heilbronn
+- [x] Kreissparkasse Heilbronn
 - [ ] Kreissparkasse Heinsberg 
 - [ ] Kreissparkasse Herzogtum Lauenburg
 - [ ] Kreissparkasse Hildburghausen
